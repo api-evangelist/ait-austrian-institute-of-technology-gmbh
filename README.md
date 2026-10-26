@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AIT Austrian Institute of Technology GmbH is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.ait.ac.at
+The Austrian Institute of Technology (AIT) is Austria’s largest research and technology organization, employing over 1,600 experts. It focuses on sustainable and resilient infrastructure, digital transformation, energy, transport, health, and AI-driven innovation, collaborating closely with industry and public sector partners to drive European competitiveness.
+
+**Areas:** Company · Research · Technology · Infrastructure · AI · Energy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.ait.ac.at)
+- [Support](https://support.ait.ac.at/)
+- [Security](https://www.ait.ac.at/kontakt)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/ait-austrian-institute-of-technology-gmbh/](https://apis.io/providers/ait-austrian-institute-of-technology-gmbh/).
